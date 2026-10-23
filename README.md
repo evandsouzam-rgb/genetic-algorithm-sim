@@ -1,6 +1,6 @@
 # Genetic Algorithm Sim
 
-A population of 100 agents tries to get from the bottom of the screen to the green goal at the top without hitting the red walls. They start out moving completely randomly, and every generation the ones that did best get to pass on their genes, until most of them figure out a path around the walls.
+A population of 100 agents tries to get from the bottom of the screen to the green goal at the top without hitting the red walls. They start out moving completely randomly, and every generation the ones that did best get to pass on their genes, until most of them figure out a path around the walls. Inspired by the Primer YouTube channel.
 
 ![demo](docs/demo.gif)
 
